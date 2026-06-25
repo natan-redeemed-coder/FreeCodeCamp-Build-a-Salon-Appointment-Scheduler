@@ -1,3 +1,5 @@
-# FreeCodeCamp-Build-a-Salon-Appointment-Scheduler
+# FreeCodeCamp
+## Relational Database V8
+### Build a Salon Appointment Scheduler
 
 A completed FreeCodeCamp course.
